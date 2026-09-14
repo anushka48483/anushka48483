@@ -1,20 +1,29 @@
-Hi, I'm Anushka Singh!<br><br>
-Computer Science Engineering undergraduate at KLE Technological University with a strong interest in software development, problem solving, and Machine Learning.<br><br>
-I enjoy building practical applications, exploring intelligent systems, and continuously improving my technical skills through projects and problem solving.<br><br>
-Currently, I am focused on strengthening my Data Structures & Algorithms skills and developing scalable full-stack applications.
-Featured Projects:<br>
-Navarasa-Based Multimodal Emotion Recognition — Developed a multimodal emotion recognition system using video, audio, and text data with a dataset of 756 annotated movie clips. Implemented M3ER, MemoBERT, IMAN, and ACMAN using cross-modal attention and feature fusion, achieving CCC ≈ 0.91.<br><br>
-IntelliTrack — AI-Powered Productivity Assistant — Built a MERN-based productivity platform for task management, habit tracking, and productivity insights. Integrated real-time analytics and AI APIs for summarization and sentiment analysis.<br><br>
-SmartLedger — Developed a personal finance management application focused on helping users efficiently track, organize, and manage their financial activities.<br><br>
+👋 Hi, I'm Anushka Singh!<br><br>
 
-Achievements:<br>
-3rd Place in the Inter-College Hackathon at KLE Technological University<br>
-Rank 97 in WIDS 2025 among 1000+ participating teams<br>
-Semi-Finalist in the Google WE Scholar Program, Top 500 among 30,000+ applicants<br>
-Solved 200+ DSA problems across LeetCode, GeeksforGeeks, and HackerRank<br>
-Vice-Chairperson of the Arcstack Coding Club<br><br>
+🎓 Computer Science Engineering undergraduate at KLE Technological University with a strong interest in software development, problem solving, and Machine Learning.<br><br>
 
-Education:<br>
+💻 I enjoy building practical applications, exploring intelligent systems, and continuously improving my technical skills through projects and problem solving.<br><br>
+
+🚀 Currently, I am focused on strengthening my Data Structures & Algorithms skills and developing scalable full-stack applications.<br><br>
+
+🔹 Featured Projects:<br><br>
+
+🧠 Navarasa-Based Multimodal Emotion Recognition — Developed a multimodal emotion recognition system using video, audio, and text data with a dataset of 756 annotated movie clips. Implemented M3ER, MemoBERT, IMAN, and ACMAN using cross-modal attention and feature fusion, achieving CCC ≈ 0.91.<br><br>
+
+⚡ IntelliTrack — AI-Powered Productivity Assistant — Built a MERN-based productivity platform for task management, habit tracking, and productivity insights. Integrated real-time analytics and AI APIs for summarization and sentiment analysis.<br><br>
+
+💰 SmartLedger — Developed a personal finance management application focused on helping users efficiently track, organize, and manage their financial activities.<br><br>
+
+🏆 Achievements:<br><br>
+
+🥉 3rd Place in the Inter-College Hackathon at KLE Technological University<br>
+🏅 Rank 97 in WIDS 2025 among 1000+ participating teams<br>
+🌟 Semi-Finalist in the Google WE Scholar Program, Top 500 among 30,000+ applicants<br>
+💻 Solved 200+ DSA problems across LeetCode, GeeksforGeeks, and HackerRank<br>
+👩‍💻 Vice-Chairperson of the Arcstack Coding Club<br><br>
+
+🎓 Education:<br><br>
+
 B.E. Computer Science, KLE Technological University’s Dr. M.S. Sheshgiri Campus, Belagavi, Karnataka | 2023–2027 | CGPA: 9.18<br><br>
 
 
