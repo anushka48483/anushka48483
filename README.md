@@ -1,6 +1,11 @@
-👋 Hi, I'm Anushka Singh!<br><br>
-<b>Computer Science Engineering Student | Software Developer | Machine Learning | Full-Stack Development</b><br><br>
+# 👋 Hi, I'm Anushka Singh!
+
+### Computer Science Engineering Student | Software Developer | Machine Learning | Full-Stack Development
+
 I'm a Computer Science undergraduate at KLE Technological University with a strong interest in Data Structures & Algorithms, Machine Learning, and Full-Stack Development. I enjoy building real-world applications, solving challenging problems, and exploring intelligent systems using modern technologies.
+
+---
+
 
 🚀 Featured Projects:<br><br>
 
