@@ -1,16 +1,7 @@
- Hi, I'm Anushka Singh!<br><br>
-Computer Science Engineering undergraduate at KLE Technological University with a strong interest in Data Structures & Algorithms, Machine Learning, and Full-Stack Development.<br><br>
-I enjoy solving challenging problems, building real-world applications, and exploring intelligent systems using modern technologies.<br><br>
-
-Tech Stack:<br>
-Languages: C, C++, Python, SQL, JavaScript<br>
-Frontend: HTML, CSS, React.js<br>
-Backend: Node.js, Express.js, REST APIs<br>
-Databases: MySQL, MongoDB, Supabase<br>
-Machine Learning: Deep Learning, Transformers, Multimodal Learning<br>
-Tools: Git, GitHub, VS Code<br>
-Core Concepts: Data Structures & Algorithms, Object-Oriented Programming, DBMS, Multithreading, Machine Learning, Computer Networks<br><br>
-
+Hi, I'm Anushka Singh!<br><br>
+Computer Science Engineering undergraduate at KLE Technological University with a strong interest in software development, problem solving, and Machine Learning.<br><br>
+I enjoy building practical applications, exploring intelligent systems, and continuously improving my technical skills through projects and problem solving.<br><br>
+Currently, I am focused on strengthening my Data Structures & Algorithms skills and developing scalable full-stack applications.
 Featured Projects:<br>
 Navarasa-Based Multimodal Emotion Recognition — Developed a multimodal emotion recognition system using video, audio, and text data with a dataset of 756 annotated movie clips. Implemented M3ER, MemoBERT, IMAN, and ACMAN using cross-modal attention and feature fusion, achieving CCC ≈ 0.91.<br><br>
 IntelliTrack — AI-Powered Productivity Assistant — Built a MERN-based productivity platform for task management, habit tracking, and productivity insights. Integrated real-time analytics and AI APIs for summarization and sentiment analysis.<br><br>
@@ -26,10 +17,6 @@ Vice-Chairperson of the Arcstack Coding Club<br><br>
 Education:<br>
 B.E. Computer Science, KLE Technological University’s Dr. M.S. Sheshgiri Campus, Belagavi, Karnataka | 2023–2027 | CGPA: 9.18<br><br>
 
-Connect with me:<br>
-Email: anu48483@gmail.com<br>
-LinkedIn: https://www.linkedin.com/in/anushka-singh-2bb080298/<br>
-GitHub: https://github.com/anushka48483
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anushka-singh-2bb080298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anu48483@gmail.com) 
