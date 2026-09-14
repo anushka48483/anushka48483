@@ -7,26 +7,36 @@ I'm a Computer Science undergraduate at KLE Technological University with a stro
 ---
 
 
-🚀 Featured Projects:<br><br>
+## 🚀 Featured Projects
 
-• Navarasa-Based Multimodal Emotion Recognition — Developed a multimodal emotion recognition system using video, audio, and text data with a dataset of 756 annotated movie clips. Implemented M3ER, MemoBERT, IMAN, and ACMAN using cross-modal attention and feature fusion, achieving CCC ≈ 0.91.<br><br>
+- **Navarasa-Based Multimodal Emotion Recognition**  
+  Developed a multimodal emotion recognition system using video, audio, and text data with a dataset of **756 annotated movie clips**. Implemented M3ER, MemoBERT, IMAN, and ACMAN using cross-modal attention and feature fusion, achieving **CCC ≈ 0.91** and **MSE ≈ 0.006**.
 
-• IntelliTrack — AI-Powered Productivity Assistant — Built a MERN-based productivity platform for task management, habit tracking, and productivity insights. Integrated real-time analytics and AI APIs for summarization and sentiment analysis.<br><br>
+- **IntelliTrack — AI-Powered Productivity Assistant**  
+  Built a MERN-based productivity platform for task management, habit tracking, and productivity insights. Integrated real-time analytics and AI APIs for summarization and sentiment analysis.
 
-• SmartLedger — Developed a personal finance management application focused on helping users efficiently track, organize, and manage their financial activities.<br><br>
+- **SmartLedger**  
+  Developed a personal finance management application focused on helping users efficiently track, organize, and manage their financial activities.
 
-🏆 Achievements:<br><br>
+---
 
-• 3rd Place in the Inter-College Hackathon at KLE Technological University<br>
-• Rank 97 in WIDS 2025 among 1000+ participating teams<br>
-• Semi-Finalist in the Google WE Scholar Program, Top 500 among 30,000+ applicants<br>
-• Solved 200+ DSA problems across LeetCode, GeeksforGeeks, and HackerRank<br>
-• Vice-Chairperson of the Arcstack Coding Club<br><br>
+## 🏆 Achievements
 
-🎓 Education:<br><br>
+- **3rd Place** — Inter-College Hackathon at KLE Technological University
+- **Rank 97** — WIDS 2025 among **1000+ participating teams**
+- **Semi-Finalist** — Google WE Scholar Program, Top **500 out of 30,000+ applicants**
+- Solved **200+ DSA problems** across LeetCode, GeeksforGeeks, and HackerRank
+- **Vice-Chairperson** — Arcstack Coding Club
 
-• B.E. Computer Science, KLE Technological University’s Dr. M.S. Sheshgiri Campus, Belagavi, Karnataka | 2023–2027 | CGPA: 9.18<br><br>
+---
 
+## 🎓 Education
+
+- **B.E. Computer Science**  
+  KLE Technological University’s Dr. M.S. Sheshgiri Campus, Belagavi, Karnataka  
+  **2023–2027 | CGPA: 9.18**
+  
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anushka-singh-2bb080298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anu48483@gmail.com) 
