@@ -1,6 +1,35 @@
- About Me:
- Hi, I'm Anushka Singh!<br><br>### Computer Science Engineering Student | DSA | Machine Learning | Full-Stack Development<br><br>I'm a Computer Science undergraduate at KLE Technological University with a strong interest in Data Structures & Algorithms, Machine Learning, and Full-Stack Development. I enjoy building real-world applications and exploring intelligent systems using modern technologies.<br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Languages:** C • C++ • Python • SQL • JavaScript<br><br>**Frontend:** HTML • CSS • React.js<br><br>**Backend:** Node.js • Express.js • REST APIs<br><br>**Databases:** MySQL • MongoDB • Supabase<br><br>**Machine Learning:** Deep Learning • Transformers • Multimodal Learning<br><br>**Tools:** Git • GitHub • VS Code<br><br>**Core Concepts:** Data Structures & Algorithms • Object-Oriented Programming • DBMS • Multithreading • Machine Learning • Computer Networks<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🔹 Navarasa-Based Multimodal Emotion Recognition<br><br>Developed a multimodal emotion recognition system using video, audio, and text data, with a dataset of 756 annotated movie clips.  <br>Implemented M3ER, MemoBERT, IMAN, and ACMAN using cross-modal attention and feature fusion, achieving CCC ≈ 0.91.<br><br>**Tech:** Python • Deep Learning • Transformers<br><br>### 🔹 IntelliTrack — AI-Powered Productivity Assistant<br><br>Built a MERN-based productivity platform for task management, habit tracking, and personalized productivity insights.  <br>Integrated real-time analytics and AI APIs for summarization and sentiment analysis to provide actionable user insights.<br><br>**Tech:** MongoDB • Express.js • React.js • Node.js<br><br>### 🔹 SmartLedger<br><br>Built a personal finance management application to help users efficiently track, organize, and manage their financial activities.  <br>Designed a clean and intuitive interface with a focus on simplifying everyday financial management.<br><br>**Tech:** React • TypeScript • Vite<br><br>---<br><br>## 🏆 Achievements<br><br>- 🥉 **3rd Place** — Inter-College Hackathon at KLE Technological University<br>- 🏅 **Rank 97** — WIDS 2025 among 1000+ participating teams<br>- 🌟 **Semi-Finalist** — Google WE Scholar Program, Top 500 among 30,000+ applicants<br>- 💻 **200+ DSA Problems** — LeetCode, GeeksforGeeks & HackerRank<br>- 👩‍💻 **Vice-Chairperson** — Arcstack Coding Club<br><br>---<br><br>## 📫 Connect With Me<br><br>📧 **Email:** [anu48483@gmail.com](mailto:anu48483@gmail.com)<br><br>💼 **LinkedIn:** [Anushka Singh](https://www.linkedin.com/in/anushka-singh-2bb080298/)<br><br>🐙 **GitHub:** [anushka48483](https://github.com/anushka48483)<br><br>---<br><br>⭐ Feel free to explore my repositories and connect with me!
+ Hi, I'm Anushka Singh!<br><br>
+Computer Science Engineering undergraduate at KLE Technological University with a strong interest in Data Structures & Algorithms, Machine Learning, and Full-Stack Development.<br><br>
+I enjoy solving challenging problems, building real-world applications, and exploring intelligent systems using modern technologies.<br><br>
 
+Tech Stack:<br>
+Languages: C, C++, Python, SQL, JavaScript<br>
+Frontend: HTML, CSS, React.js<br>
+Backend: Node.js, Express.js, REST APIs<br>
+Databases: MySQL, MongoDB, Supabase<br>
+Machine Learning: Deep Learning, Transformers, Multimodal Learning<br>
+Tools: Git, GitHub, VS Code<br>
+Core Concepts: Data Structures & Algorithms, Object-Oriented Programming, DBMS, Multithreading, Machine Learning, Computer Networks<br><br>
+
+Featured Projects:<br>
+Navarasa-Based Multimodal Emotion Recognition — Developed a multimodal emotion recognition system using video, audio, and text data with a dataset of 756 annotated movie clips. Implemented M3ER, MemoBERT, IMAN, and ACMAN using cross-modal attention and feature fusion, achieving CCC ≈ 0.91.<br><br>
+IntelliTrack — AI-Powered Productivity Assistant — Built a MERN-based productivity platform for task management, habit tracking, and productivity insights. Integrated real-time analytics and AI APIs for summarization and sentiment analysis.<br><br>
+SmartLedger — Developed a personal finance management application focused on helping users efficiently track, organize, and manage their financial activities.<br><br>
+
+Achievements:<br>
+3rd Place in the Inter-College Hackathon at KLE Technological University<br>
+Rank 97 in WIDS 2025 among 1000+ participating teams<br>
+Semi-Finalist in the Google WE Scholar Program, Top 500 among 30,000+ applicants<br>
+Solved 200+ DSA problems across LeetCode, GeeksforGeeks, and HackerRank<br>
+Vice-Chairperson of the Arcstack Coding Club<br><br>
+
+Education:<br>
+B.E. Computer Science, KLE Technological University’s Dr. M.S. Sheshgiri Campus, Belagavi, Karnataka | 2023–2027 | CGPA: 9.18<br><br>
+
+Connect with me:<br>
+Email: anu48483@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/anushka-singh-2bb080298/<br>
+GitHub: https://github.com/anushka48483
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anushka-singh-2bb080298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anu48483@gmail.com) 
