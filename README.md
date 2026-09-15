@@ -26,7 +26,6 @@ I'm a Computer Science undergraduate at KLE Technological University with a stro
 - **Rank 97** — WIDS 2025 among **1000+ participating teams**
 - **Semi-Finalist** — Google WE Scholar Program, Top **500 out of 30,000+ applicants**
 - Solved **200+ DSA problems** across LeetCode, GeeksforGeeks, and HackerRank
-- **Vice-Chairperson** — Arcstack Coding Club
 
 ---
 
